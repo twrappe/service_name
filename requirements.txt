@@ -1,0 +1,8 @@
+fastapi==0.111.1
+uvicorn[standard]==0.23.2
+pydantic==2.5.1
+pytest==8.3.2
+httpx==1.6.3  # Optional: for async testing
+black==24.3.0        # Code formatting
+isort==6.1.0         # Import sorting
+flake8==6.1.0         # Linting
